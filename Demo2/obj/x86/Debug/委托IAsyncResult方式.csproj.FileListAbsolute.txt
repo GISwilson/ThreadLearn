@@ -1,0 +1,10 @@
+D:\桌面\利用BackgroundSWorker组件处理多线程\Demo2\bin\Debug\Demo2.exe
+D:\桌面\利用BackgroundSWorker组件处理多线程\Demo2\bin\Debug\Demo2.pdb
+D:\桌面\利用BackgroundSWorker组件处理多线程\Demo2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\桌面\利用BackgroundSWorker组件处理多线程\Demo2\obj\x86\Debug\Demo2.Form1.resources
+D:\桌面\利用BackgroundSWorker组件处理多线程\Demo2\obj\x86\Debug\Demo2.FrmWait.resources
+D:\桌面\利用BackgroundSWorker组件处理多线程\Demo2\obj\x86\Debug\Demo2.Properties.Resources.resources
+D:\桌面\利用BackgroundSWorker组件处理多线程\Demo2\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\桌面\利用BackgroundSWorker组件处理多线程\Demo2\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\桌面\利用BackgroundSWorker组件处理多线程\Demo2\obj\x86\Debug\Demo2.exe
+D:\桌面\利用BackgroundSWorker组件处理多线程\Demo2\obj\x86\Debug\Demo2.pdb
